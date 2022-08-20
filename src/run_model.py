@@ -20,7 +20,7 @@ os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
 def main():
 
-    #Fetch dataset
+    #Fetch dataset from the respective file
     try:
         data = pd.read_csv('stroke-dataset.csv')
     except:
