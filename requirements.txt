@@ -1,0 +1,5 @@
+pip install sklearn
+pip install tensorflow --user
+pip install Keras
+pip install -U imbalanced-learn
+conda install -c conda-forge imbalanced-learn
