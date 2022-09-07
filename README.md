@@ -2,7 +2,7 @@
 
 ## Application Purpose    
 The objective of the application is to show a sequential model to be trained with various activation neural layers. This model focuses on stroke prediction
-in humans with respect to parsing of dataset filled with individual based chararcterstics. This model runs with a prediction **accuracy of 83%**.
+in humans with respect to parsing of dataset filled with individual based chararcterstics. This model runs with a prediction **accuracy of 82%**.
 
 ## Usage Instructions  
 1. Download the zip file for the project or just clone directly
